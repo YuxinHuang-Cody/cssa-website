@@ -5,7 +5,7 @@ import CategorySection2 from '@/component/category/CategorySection2';
 import CourseSection5 from '@/component/course/CourseSection5';
 import CtaSection6 from '@/component/cta/CtaSection6';
 import FooterSection from '@/component/footer/FooterSection';
-import HeaderSection10 from '@/component/header/HeaderSection10';
+import HeaderSection10 from '@/app/header/HeaderSection10';
 import VideoModal from '@/component/modal/VideoModal';
 import SoftwareSlider from '@/component/slider/SoftwareSlider';
 import TeacherSection6 from '@/component/teacher/TeacherSection6';

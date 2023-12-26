@@ -3,7 +3,7 @@ import BannerSection8 from '@/component/banner/BannerSection8';
 import BlogSection5 from '@/component/blog/BlogSection5';
 import ProgramSection2 from '@/component/campus/ProgramSection2';
 import FooterSection4 from '@/component/footer/FooterSection4';
-import HeaderSection4 from '@/component/header/HeaderSection4';
+import HeaderSection4 from '@/app/header/HeaderSection4';
 import PricingSection2 from '@/component/pricing/PricingSection2';
 import ServiceSection2 from '@/component/service/ServiceSection2';
 import ClassSlider from '@/component/slider/ClassSlider';

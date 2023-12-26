@@ -4,7 +4,7 @@ import BlogSection6 from '@/component/blog/BlogSection6';
 import CampusSection2 from '@/component/campus/CampusSection2';
 import CourseSection2 from '@/component/course/CourseSection2';
 import FooterSection7 from '@/component/footer/FooterSection7';
-import HeaderSection8 from '@/component/header/HeaderSection8'
+import HeaderSection8 from '@/app/header/HeaderSection8'
 import VideoModal from '@/component/modal/VideoModal';
 import PricingSection3 from '@/component/pricing/PricingSection3';
 import TestimonialSection2 from '@/component/testimonial/TestimonialSection2';

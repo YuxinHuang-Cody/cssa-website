@@ -6,7 +6,7 @@ import ClassSection from '@/component/course/ClassSection';
 import CtaSection3 from '@/component/cta/CtaSection3';
 import EventSection from '@/component/event/EventSection';
 import FooterSection3 from '@/component/footer/FooterSection3';
-import HeaderSection3 from '@/component/header/HeaderSection3';
+import HeaderSection3 from '@/app/header/HeaderSection3';
 import MarqueeTextSection from '@/component/marquee/MarqueeTextSection';
 import FacultySlider2 from '@/component/slider/FacultySlider2';
 import MembershipSlider from '@/component/slider/MembershipSlider';

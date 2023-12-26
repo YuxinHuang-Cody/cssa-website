@@ -6,7 +6,7 @@ import AcademicProgramSection from '@/component/campus/AcademicProgramSection';
 import CtaSection2 from '@/component/cta/CtaSection2';
 import UpcomingEventSection from '@/component/event/UpcomingEventSection';
 import FooterSection2 from '@/component/footer/FooterSection2';
-import HeaderSection2 from '@/component/header/HeaderSection2';
+import HeaderSection2 from '@/app/header/HeaderSection2';
 import TeacherSection2 from '@/component/teacher/TeacherSection2';
 import { Metadata } from 'next';
 import React from 'react'

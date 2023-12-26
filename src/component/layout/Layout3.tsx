@@ -1,6 +1,6 @@
 'use client'
 import React from 'react'
-import HeaderSection2 from '../header/HeaderSection2';
+import HeaderSection2 from '../../app/header/HeaderSection2';
 import FooterSection2 from '../footer/FooterSection2';
 import { useTalimContext } from '@/context/TalimContext';
 interface LayoutProps {

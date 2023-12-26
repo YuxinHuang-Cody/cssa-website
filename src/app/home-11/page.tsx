@@ -2,7 +2,7 @@ import BannerSection10 from '@/component/banner/BannerSection10';
 import ArticleSection2 from '@/component/blog/ArticleSection2';
 import BlogSection7 from '@/component/blog/BlogSection7';
 import FooterSection5 from '@/component/footer/FooterSection5';
-import HeaderSection8 from '@/component/header/HeaderSection8';
+import HeaderSection8 from '@/app/header/HeaderSection8';
 import MembershipSlider from '@/component/slider/MembershipSlider';
 import SocialSection from '@/component/social/SocialSection';
 import TeacherSection4 from '@/component/teacher/TeacherSection4';

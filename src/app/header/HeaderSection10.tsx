@@ -2,7 +2,7 @@
 import { useTalimContext } from '@/context/TalimContext';
 import Link from 'next/link'
 import React from 'react'
-import NavSection from '../navigation/NavSection';
+import NavSection from '../../component/navigation/NavSection';
 type Props = {
     lightLogo: string;
     darkLogo: string;

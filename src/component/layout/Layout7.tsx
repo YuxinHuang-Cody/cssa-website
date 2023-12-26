@@ -1,6 +1,6 @@
 'use client'
 import React from 'react'
-import HeaderSection7 from '../header/HeaderSection7';
+import HeaderSection7 from '../../app/header/HeaderSection7';
 import FooterSection5 from '../footer/FooterSection5';
 import { useTalimContext } from '@/context/TalimContext';
 

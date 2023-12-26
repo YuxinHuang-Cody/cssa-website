@@ -7,7 +7,7 @@ import CtaSection3 from '@/component/cta/CtaSection3';
 import EventSection3 from '@/component/event/EventSection3';
 import FooterSection3 from '@/component/footer/FooterSection3';
 
-import HeaderSection10 from '@/component/header/HeaderSection10';
+import HeaderSection10 from '@/app/header/HeaderSection10';
 import CountrySlider from '@/component/slider/CountrySlider';
 import MembershipSlider from '@/component/slider/MembershipSlider';
 import TestimonialSlider7 from '@/component/slider/TestimonialSlider7';

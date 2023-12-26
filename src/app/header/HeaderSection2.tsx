@@ -1,7 +1,7 @@
 'use client'
 import Link from "next/link";
 import React from "react";
-import NavSection from "../navigation/NavSection";
+import NavSection from "../../component/navigation/NavSection";
 import { useTalimContext } from "@/context/TalimContext";
 interface HeaderProps {
   style: string;

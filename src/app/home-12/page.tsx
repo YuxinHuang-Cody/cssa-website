@@ -5,7 +5,7 @@ import CourseSection3 from '@/component/course/CourseSection3';
 import CtaSection5 from '@/component/cta/CtaSection5';
 import EventSection2 from '@/component/event/EventSection2';
 import FooterSection5 from '@/component/footer/FooterSection5';
-import HeaderSection8 from '@/component/header/HeaderSection8';
+import HeaderSection8 from '@/app/header/HeaderSection8';
 import MembershipSlider from '@/component/slider/MembershipSlider';
 import TeacherSection5 from '@/component/teacher/TeacherSection5';
 import TestimonialSection3 from '@/component/testimonial/TestimonialSection3';

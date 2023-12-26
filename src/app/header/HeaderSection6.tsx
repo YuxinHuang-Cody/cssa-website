@@ -1,7 +1,7 @@
 'use client'
 import Link from 'next/link'
 import React from 'react'
-import NavSection from '../navigation/NavSection';
+import NavSection from '../../component/navigation/NavSection';
 import { useTalimContext } from '@/context/TalimContext';
 interface HeaderProp {
     style: string;
@@ -40,7 +40,7 @@ const HeaderSection6:React.FC<HeaderProp> = ({style,darkLogo,lightLogo}) => {
                     </div>
                 </div>
 
-                <div className="col-2 d-lg-block d-none position-relative">
+                {/* <div className="col-2 d-lg-block d-none position-relative">
                     <div className="kb-header-actions-11 d-flex justify-content-end">
                         <button className="tl-searh-btn kb-searh-open-btn-11"><i className="fa-regular fa-magnifying-glass"></i></button>
                         <Link href="/login" className="tl-def-btn tl-2-def-btn"><i className="fa-regular fa-user"></i> Login/Register</Link>
@@ -50,7 +50,7 @@ const HeaderSection6:React.FC<HeaderProp> = ({style,darkLogo,lightLogo}) => {
                         <input type="search" name="Search" className="tl-7-nav-search" placeholder="Search items"/>
                         <button type="submit" className="tl-7-search-btn"><i className="fa-regular fa-magnifying-glass"></i></button>
                     </form>
-                </div>
+                </div> */}
             </div>
         </div>
     </div>

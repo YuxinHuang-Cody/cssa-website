@@ -6,7 +6,7 @@ import CampusSection from '@/component/campus/CampusSection';
 import ProgramSection from '@/component/campus/ProgramSection';
 import ResearchSection from '@/component/campus/ResearchSection';
 import FooterSection5 from '@/component/footer/FooterSection5';
-import HeaderSection7 from '@/component/header/HeaderSection7';
+import HeaderSection7 from '@/app/header/HeaderSection7';
 import TestimonialSlider2 from '@/component/slider/TestimonialSlider2';
 import SocialSection from '@/component/social/SocialSection';
 import { Metadata } from 'next';

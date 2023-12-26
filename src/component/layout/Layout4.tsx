@@ -1,5 +1,5 @@
 import React from 'react'
-import HeaderSection4 from '../header/HeaderSection4';
+import HeaderSection4 from '../../app/header/HeaderSection4';
 import FooterSection4 from '../footer/FooterSection4';
 
 interface LayoutProps {

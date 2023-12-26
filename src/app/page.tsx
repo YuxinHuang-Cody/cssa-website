@@ -1,32 +1,44 @@
-import AboutSection from '@/component/about/AboutSection'
-import BannerSection from '@/component/banner/BannerSection'
-import SubBannerSection from '@/component/banner/SubBannerSection'
-import BlogSection from '@/component/blog/BlogSection'
-import CourseSection from '@/component/course/CourseSection'
-import FooterSection from '@/component/footer/FooterSection'
-import HeaderSection from '@/component/header/HeaderSection'
-import ServiceSection from '@/component/service/ServiceSection'
-import TeacherSlider from '@/component/slider/TeacherSlider'
-import TestimonialSlider from '@/component/slider/TestimonialSlider'
-import type { Metadata } from 'next'
-
+import AboutSection2 from "@/component/about/AboutSection2";
+import BannerSection2 from "@/component/banner/BannerSection2";
+import CtaSection from "@/component/cta/CtaSection";
+import FooterSection4 from "@/component/footer/FooterSection4";
+import HeaderSection6 from "@/app/header/HeaderSection6";
+import BlogSlider from "@/component/slider/BlogSlider";
+import CourseSlider2 from "@/component/slider/CourseSlider2";
+import ServiceSlider from "@/component/slider/ServiceSlider";
+import TeacherSection from "@/component/teacher/TeacherSection";
+import TestimonialSection from "@/component/testimonial/TestimonialSection";
+import { Metadata } from "next";
+import React from "react";
 export const metadata: Metadata = {
-  title: 'Talim Online Education (LMS)',
-  description: 'Developed by Azizur Rahman',
-}
-export default function Home() {
+  title: "Talim Kindergarten",
+  description: "Developed by Azizur Rahman",
+};
+const Home2 = () => {
   return (
     <>
-      <HeaderSection/>
-      <BannerSection/>
-      <ServiceSection/>
-      <AboutSection/>
-      <CourseSection/>
-      <TestimonialSlider padding='pt-120 pb-120'/>
-      <SubBannerSection/>
-      <TeacherSlider padding='pt-120 pb-120'/>
-      <BlogSection/>
-      <FooterSection footerStyle='kb-10-footer'/>
+      <div className="outer-container">
+        <HeaderSection6 
+        style="red-clr" 
+        lightLogo="assets/images/logos/logo-cssa.jpg" 
+        darkLogo="assets/images/logos/logo-cssa.jpg" 
+        />
+        <BannerSection2 />
+        <AboutSection2 />
+        <ServiceSlider />
+        <CourseSlider2 />
+        <CtaSection />
+        <TeacherSection />
+        <TestimonialSection />
+        <BlogSlider />
+      </div>
+      <FooterSection4
+        style="tl-2-footer"
+        logo="assets/images/logos/logo-2-light.png"
+        form="tl-2-footer-subs-form"
+      />
     </>
-  )
-}
+  );
+};
+
+export default Home2;

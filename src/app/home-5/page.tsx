@@ -5,7 +5,7 @@ import BlogSection4 from '@/component/blog/BlogSection4';
 import AcademicSection from '@/component/campus/AcademicSection';
 import CampusSection from '@/component/campus/CampusSection';
 import FooterSection6 from '@/component/footer/FooterSection6';
-import HeaderSection8 from '@/component/header/HeaderSection8';
+import HeaderSection8 from '@/app/header/HeaderSection8';
 import AlumniTestimonialSlider from '@/component/slider/AlumniTestimonialSlider';
 import FacultySlider from '@/component/slider/FacultySlider';
 import { Metadata } from 'next';

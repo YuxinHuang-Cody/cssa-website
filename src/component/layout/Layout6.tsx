@@ -1,5 +1,5 @@
 import React from 'react'
-import HeaderSection6 from '../header/HeaderSection6';
+import HeaderSection6 from '../../app/header/HeaderSection6';
 import FooterSection4 from '../footer/FooterSection4';
 
 

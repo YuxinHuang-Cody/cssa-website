@@ -4,7 +4,7 @@ import ContactSection2 from '@/component/contact/ContactSection2';
 import CtaSection4 from '@/component/cta/CtaSection4';
 import FaqSection from '@/component/faq/FaqSection';
 import FooterSection3 from '@/component/footer/FooterSection3';
-import HeaderSection5 from '@/component/header/HeaderSection5';
+import HeaderSection5 from '@/app/header/HeaderSection5';
 import PricingSection from '@/component/pricing/PricingSection';
 import ServiceSection3 from '@/component/service/ServiceSection3';
 import DrivingCourseSilder from '@/component/slider/DrivingCourseSilder';
