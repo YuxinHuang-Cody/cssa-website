@@ -36,7 +36,7 @@ const HeaderSection6:React.FC<HeaderProp> = ({style,darkLogo,lightLogo}) => {
 
                 <div className="col-8">
                     <div className="tl-nav-menu">
-                        <NavSection ulPosition='justify-content-center' liStyle=''/>
+                        <NavSection ulPosition='justify-content-end' liStyle=''/>
                     </div>
                 </div>
 
