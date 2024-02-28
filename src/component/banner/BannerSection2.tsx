@@ -34,7 +34,7 @@ const BannerSection2 = () => {
                   <span className="tl-2-blog-btn-icon">
                     <i className="fa-regular fa-arrow-up-right"></i>
                   </span>{" "}
-                  Find Out More
+                  阅读更多
                 </a>
               </div>
             </div>

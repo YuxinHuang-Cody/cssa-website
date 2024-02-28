@@ -20,8 +20,8 @@ const Home2 = () => {
       <div className="outer-container">
         <HeaderSection6 
         style="red-clr" 
-        lightLogo="assets/images/logos/logo-cssa.jpg" 
-        darkLogo="assets/images/logos/logo-cssa.jpg" 
+        lightLogo="assets/images/logos/logo-cssa.png" 
+        darkLogo="assets/images/logos/logo-cssa.png" 
         />
         <BannerSection2 />
         <AboutSection2 />

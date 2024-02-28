@@ -200,9 +200,9 @@ button:focus {
   outline: none;
 }
 
-img {
+/* img {
   max-width: 100%;
-}
+} */
 
 ul {
   padding-left: 0;
@@ -285,7 +285,7 @@ textarea::placeholder {
 }
 
 .logo img {
-  width: 140px;
+  width: 350px;
 }
 @media screen and (max-width: 767px) {
   .logo img {
@@ -4372,13 +4372,13 @@ li.tl-nav-item.tl-9-nav-item.tl-dropdown > a:hover {
   top: 250px;
 }
 .swiper-slide.tl-2-banner-slide.slider-1{
-  background-image: url(../images/tl-2/banner-bg.jpg);
+  background-image: url(../images/tl-2/bg1.jpg);
 }
 .swiper-slide.tl-2-banner-slide.slider-2{
-  background-image: url(../images/tl-2/banner-bg-2.jpg);
+  background-image: url(../images/tl-2/bg2.png);
 }
 .swiper-slide.tl-2-banner-slide.slider-3{
-  background-image: url(../images/tl-2/banner-bg-3.jpg);
+  background-image: url(../images/tl-2/bg3.jpg);
 }
 @media screen and (max-width: 1399px) {
   .tl-2-banner-slide-txt {

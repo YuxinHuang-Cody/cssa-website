@@ -23,7 +23,7 @@ export default function RootLayout({
     <html lang="en">
       <TalimProvider>
         <body>
-          <ThemeBtnSection/>
+          {/* <ThemeBtnSection/> */}
           <SidebarSection/>
           {children}
           <ToastContainer/>

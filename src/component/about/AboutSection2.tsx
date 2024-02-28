@@ -14,7 +14,7 @@ const AboutSection2 = () => {
 
                 <div className="col-lg-6">
                     <div className="tl-2-about-txt">
-                        <h2 className="tl-2-section-title">Request a Tutors For a Free Online Class.</h2>
+                        <h2 className="tl-2-section-title">学联简介</h2>
                         <h6 className="tl-2-about-second-title">Play As You Learn</h6>
                         <p className="tl-2-about-descr">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected randomised words which don't look even slightly believable.</p>
                         <div className="tl-2-about-stats">

@@ -1347,20 +1347,20 @@ const bannerSliderData = [
   {
     id: 0,
     banner: "slider-1",
-    title: "Empowering Student Knowledge.",
-    desc: "Through a combination of lectures, readings, and discussions, students will gain a solid foundation in educational psychology.",
+    title: "伯明翰大学中国学联",
+    desc: "伯明翰大学中国学联是伯明翰大学官方唯一认证的中国学生组织，为伯大中国学生争取学生福利、组织课外活动、庆祝中国传统节日、举办美食活动、宣传中国文化，并为非中国学生提供了解中国的平台。",
   },
   {
     id: 1,
     banner: "slider-2",
-    title: "Unlock Your Potential.",
-    desc: "Our programs are designed to help you discover your strengths and reach your full potential in a supportive learning environment.",
+    title: "探索社团生活",
+    desc: "参与社团生活是丰富大学生活、拓展人际关系、培养技能的重要途径。在社团中，你可以结识志同道合的伙伴，共同探讨兴趣爱好，激发彼此的创造力和潜力。通过参与各种活动和项目，你将不断挑战自我，锻炼领导能力、团队合作能力和解决问题的能力。",
   },
   {
     id: 2,
     banner: "slider-3",
-    title: "Join Our Community.",
-    desc: "Become a part of our vibrant educational community, where you can connect with like-minded individuals and grow together.",
+    title: "加入我们",
+    desc: "通过学联，你可以锻炼领导才能，推动校园发展，结识志同道合的伙伴，共同为校园的繁荣贡献力量。",
   },
 ];
 

@@ -9,7 +9,7 @@ const CourseSlider2 = () => {
     <section className="tl-2-courses tl-2-blogs pt-120 pb-120">
             <div className="container">
                 <div className="tl-2-section-heading">
-                    <h2 className="tl-2-section-title">Explore Popular Courses</h2>
+                    <h2 className="tl-2-section-title">课程</h2>
                     <div className="tl-2-blogs-slider-nav" id="tl-2-courses-slider-nav">
                         <button type="button" role="presentation" className="owl-prev">
                             <i className="fa-light fa-arrow-left"></i>
@@ -68,23 +68,6 @@ const CourseSlider2 = () => {
                         <div className="tl-2-course-txt">
                             <h4 className="tl-1-course-title tl-2-course-title"><a href="#">{item.title}</a></h4>
                             <p className="tl-2-course-descr">{item.desc}</p>
-
-                            <div className="tl-2-course-infos">
-                                <div className="tl-2-course-info">
-                                    <h6 className="tl-2-course-info-key">Age: </h6>
-                                <h6 className="tl-2-course-info-value">{item.age}</h6>
-                                </div>
-
-                                <div className="tl-2-course-info">
-                                    <h6 className="tl-2-course-info-key">Time: </h6>
-                                    <h6 className="tl-2-course-info-value">{item.time}</h6>
-                                </div>
-
-                                <div className="tl-2-course-info">
-                                    <h6 className="tl-2-course-info-key">Seat: </h6>
-                                    <h6 className="tl-2-course-info-value">{item.seat}</h6>
-                                </div>
-                            </div>
 
                             <a href="#" className="tl-2-blog-btn"><span className="tl-2-blog-btn-icon"><i className="fa-regular fa-arrow-up-right"></i></span> read more</a>
                         </div>
