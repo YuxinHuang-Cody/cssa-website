@@ -25,7 +25,7 @@ const Home2 = () => {
         />
         <BannerSection2 />
         <AboutSection2 />
-        <ServiceSlider />
+        {/* <ServiceSlider /> */}
         <CourseSlider2 />
         <CtaSection />
         <TeacherSection />
