@@ -48,7 +48,7 @@ const FooterSection4:React.FC<FooterProps> = ({style,logo,form}) => {
                     </div>
                     <div className="col-lg-3 col-6 col-xxs-12">
                         <div className="tl-2-footer-widget tl-2-footer-widget-3">
-                        <h5 className="tl-2-footer-widget-title">链接</h5>
+                        <h5 className="tl-2-footer-widget-title">外部链接</h5>
                             <ul className="tl-2-footer-links tl-9-footer-links">
                                 <li><Link href="/about">About Us</Link></li>
                                 <li><Link href="/contact">Admission</Link></li>
