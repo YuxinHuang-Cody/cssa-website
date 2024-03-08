@@ -11053,15 +11053,15 @@ ul.tl-footer-links.tl-4-footer-links.tl-11-footer-link a:hover {
   z-index: 1;
   text-align: center;
 }
-.tl-2-cta.bg-defaults {
+/* .tl-2-cta.bg-defaults {
   background-image: url(../images/tl-2/cta-bg.jpg);
-}
+} */
 .tl-2-cta::before {
   content: "";
   position: absolute;
   inset: 0;
   z-index: -1;
-  background-color: rgba(232, 79, 44, 0.8);
+  background-color: rgba(221, 55, 14, 0.8);
 }
 .tl-2-cta .tl-2-section-title {
   font-size: 64px;

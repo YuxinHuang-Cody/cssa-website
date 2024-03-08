@@ -15,7 +15,6 @@ const ProgramSection = () => {
                         <div className="tl-4-program-heading">
                             <img src={`assets/images/tl-4/program-${index + 1}.png`} alt="Icon"/>
                             <div className="tl-4-program-heading-txt">
-                                <h4 className="tl-4-program-title">{item.programTitle}</h4>
                                 <h6 className="tl-4-program-sub-title">{item.title}</h6>
                             </div>
                         </div>
