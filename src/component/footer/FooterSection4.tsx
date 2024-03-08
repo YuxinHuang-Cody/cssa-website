@@ -10,19 +10,19 @@ const FooterSection4:React.FC<FooterProps> = ({style,logo,form}) => {
     <footer className={`tl-footer ${style} bg-defaults`}>
         <div className="container">
             <div className="tl-2-footer-heading">
-                <div className="logo">
+                {/* <div className="logo">
                     <Link href='/'>
                       <img src={logo} alt="Logo"/>  
                     </Link>
-                </div>
+                </div> */}
 
-                <form 
+                {/* <form 
                 action="#" 
                 className={`tl-2-footer-subs-form ${form}`}
                 >
                     <input type="email" name="email" id="tl-2-footer-subs-input" placeholder="Enter your email"/>
                     <button className="tl-def-btn tl-9-def-btn" type="submit">Sign Up</button>
-                </form>
+                </form> */}
             </div>
         </div>
 
@@ -31,7 +31,24 @@ const FooterSection4:React.FC<FooterProps> = ({style,logo,form}) => {
                 <div className="row g-0">
                     <div className="col-lg-3 col-6 col-xxs-12">
                         <div className="tl-2-footer-widget tl-2-footer-widget-1">
-                            <h5 className="tl-2-footer-widget-title">QUICK LINKS</h5>
+
+                        </div>
+                    </div>
+                    <div className="col-lg-3 col-6 col-xxs-12">
+                        <div className="tl-2-footer-widget tl-2-footer-widget-2">
+                            {/* <h5 className="tl-2-footer-widget-title">popular class</h5>
+                            <ul className="tl-2-footer-links tl-9-footer-links">
+                                <li><a href="#">Guitar</a></li>
+                                <li><a href="#">Piano</a></li>
+                                <li><a href="#">Percussion</a></li>
+                                <li><a href="#">Violin</a></li>
+                                <li><a href="#">Bass Guitar</a></li>
+                            </ul> */}
+                        </div>
+                    </div>
+                    <div className="col-lg-3 col-6 col-xxs-12">
+                        <div className="tl-2-footer-widget tl-2-footer-widget-3">
+                        <h5 className="tl-2-footer-widget-title">链接</h5>
                             <ul className="tl-2-footer-links tl-9-footer-links">
                                 <li><Link href="/about">About Us</Link></li>
                                 <li><Link href="/contact">Admission</Link></li>
@@ -42,32 +59,8 @@ const FooterSection4:React.FC<FooterProps> = ({style,logo,form}) => {
                         </div>
                     </div>
                     <div className="col-lg-3 col-6 col-xxs-12">
-                        <div className="tl-2-footer-widget tl-2-footer-widget-2">
-                            <h5 className="tl-2-footer-widget-title">popular class</h5>
-                            <ul className="tl-2-footer-links tl-9-footer-links">
-                                <li><a href="#">Guitar</a></li>
-                                <li><a href="#">Piano</a></li>
-                                <li><a href="#">Percussion</a></li>
-                                <li><a href="#">Violin</a></li>
-                                <li><a href="#">Bass Guitar</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div className="col-lg-3 col-6 col-xxs-12">
-                        <div className="tl-2-footer-widget tl-2-footer-widget-3">
-                            <h5 className="tl-2-footer-widget-title">Support</h5>
-                            <ul className="tl-2-footer-links tl-9-footer-links">
-                                <li><Link href="/contact">Help Center</Link></li>
-                                <li><Link href="#">FAQ</Link></li>
-                                <li><Link href="/contact">Contacts</Link></li>
-                                <li><Link href="#">Security</Link></li>
-                                <li><Link href="#">Private Police</Link></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div className="col-lg-3 col-6 col-xxs-12">
                         <div className="tl-2-footer-widget tl-2-footer-address">
-                            <h5 className="tl-2-footer-widget-title">Get in touch</h5>
+                            {/* <h5 className="tl-2-footer-widget-title">Get in touch</h5>
 
                             <ul className="tl-footer-links tl-footer-contact-infos">
                                 <li><a href="tel:8812354873654" className="tl-footer-number">(88)123 5487 3654</a></li>
@@ -76,7 +69,7 @@ const FooterSection4:React.FC<FooterProps> = ({style,logo,form}) => {
                                         Cedar Grove,
                                         NJ 5479 United States</p>
                                 </li>
-                            </ul>
+                            </ul> */}
                         </div>
                     </div>
                 </div>
@@ -84,7 +77,7 @@ const FooterSection4:React.FC<FooterProps> = ({style,logo,form}) => {
         </div>
 
         <div className="tl-2-footer-bottom container">
-            <p>Copyright &copy; 2023 All Rights Reserved by Talim</p>
+            <p>Copyright &copy; 2024 All Rights Reserved by CSSAUOB</p>
         </div>
     </footer>
   )

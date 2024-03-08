@@ -15075,7 +15075,7 @@ section.tl-6-membership.tl-9-membership .container {
   padding-block: 30px;
 }
 .tl-2-footer {
-  background-image: url(../images/tl-2/footer-bg.jpg);
+  /* background-image: url(../images/tl-2/footer-bg.jpg); */
 }
 .tl-2-footer .tl-2-footer-links a:hover {
   color: var(--kb-orange);

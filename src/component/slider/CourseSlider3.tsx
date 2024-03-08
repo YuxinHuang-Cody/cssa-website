@@ -1,5 +1,5 @@
 'use client'
-import { courseList } from '@/data/Data'
+import { courseList1 } from '@/data/Data'
 import React from 'react'
 import { Autoplay, Navigation } from 'swiper/modules'
 import { Swiper, SwiperSlide } from 'swiper/react'
@@ -58,7 +58,7 @@ const CourseSlider3 = () => {
                     }
                 }}
                 >
-                    {courseList.slice(0,6).map((item) => (
+                    {courseList1.slice(0,6).map((item) => (
                         <SwiperSlide className="tl-2-blog tl-2-course" key={item.id}>
                         <div className="tl-2-course-img">
                             <img src={item.imgSrc} alt="Course Image"/>
