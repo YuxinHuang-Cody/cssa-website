@@ -33,6 +33,13 @@ const courseList = [
     title: "伯明翰大学中国学联春晚",
     slug: "teaching-math-and-science-inquiry-based-approaches",
     desc: "春晚是伯明翰大学中国学联每年最重要的活动。伯明翰大学中国学联春晚将以“文化融合、共筑梦想”为宗旨，旨在展现中国传统文化与现代创新的融合，同时加强中西文化交流，为在伯明翰的中国学生和当地社区提供一个共同庆祝中国新年的平台。",
+    price: "$53.00",
+    author: "Brian Cumin",
+    lessons: 6,
+    students: 32,
+    age: "5-8 Year",
+    time: "8-10 AM",
+    seat: 32
   },
   {
     id: 1,
@@ -41,6 +48,13 @@ const courseList = [
     title: "商赛",
     slug: "introduction-to-programming-with-javascript",
     desc: "商赛活动是商业谈判的核心，通过队内队外合理协商，利益交换，以追求某议题“最优”解決方案。通过商业谈判方式方法，在平等，尊重的前提下，尽可能共赢合作的情况下为我方争取更多的利益",
+    price: "$53.00",
+    author: "Brian Cumin",
+    lessons: 6,
+    students: 32,
+    age: "5-8 Year",
+    time: "8-10 AM",
+    seat: 32
   },
   {
     id: 2,
@@ -49,6 +63,13 @@ const courseList = [
     title: "伯明翰校园歌手大赛",
     slug: "web-development-fundamentals-intro",
     desc: "伯明翰校园歌手大赛近年是伯明翰大学中国学联组织的热门活动之一，它能丰富同学们的课余文化生活，同时给同学们提供一个锻炼自己能力的机会和展示自己才艺魅力的舞台。激扬广大学生能拥有积极向上追求，更近一步热爱艺术，并且不断提高自身的综合素质能力，推动海外学子校园精神文明建设。",
+    price: "$53.00",
+    author: "Brian Cumin",
+    lessons: 6,
+    students: 32,
+    age: "5-8 Year",
+    time: "8-10 AM",
+    seat: 32
   },
   {
     id: 3,
@@ -57,6 +78,13 @@ const courseList = [
     title: "桌游夜活动",
     slug: "data-science-and-machine-learning-basics",
     desc: "桌游之夜作为文娱部的周常活动，自从2014年中国学生会成立至今一直坚持举办。要内容以狼人杀、剧本杀、大富翁、棋牌类等各类桌面游戏为主，活动除了能够丰富同学们的课余文化生活，还能够为大家提供一个相互交流，相互理解的机会。",
+    price: "$53.00",
+    author: "Brian Cumin",
+    lessons: 6,
+    students: 32,
+    age: "5-8 Year",
+    time: "8-10 AM",
+    seat: 32
   },
   {
     id: 4,
@@ -65,6 +93,13 @@ const courseList = [
     title: "伯明翰雀神麻将大赛",
     slug: "advanced-art-and-creativity-workshop",
     desc: "“雀神麻将大赛第二季”旨在丰富同学们的课余生活，通过麻将比赛，为学生们提供一个欢乐、有趣的交流平台。同时，它在旨在最大程度地吸引新生参与活动，让他们更好的了解伯明翰大学联，结交广泛朋友。",
+    price: "$53.00",
+    author: "Brian Cumin",
+    lessons: 6,
+    students: 32,
+    age: "5-8 Year",
+    time: "8-10 AM",
+    seat: 32
   }
 ];
 
@@ -545,6 +580,7 @@ const bannerSliderData = [
     banner: "slider-1",
     title: "伯明翰大学中国学联",
     desc: "伯明翰大学中国学联是伯明翰大学官方唯一认证的中国学生组织，为伯大中国学生争取学生福利、组织课外活动、庆祝中国传统节日、举办美食活动、宣传中国文化，并为非中国学生提供了解中国的平台。",
+    
   },
   {
     id: 1,
