@@ -10,17 +10,9 @@ interface CourseProps {
     id: number;
     youtubeUrl: string;
     imgSrc: string;
-    price: string;
-    author: string;
     title: string;
     slug: string;
-    lessons: number;
-    students: number;
     desc: string;
-    age: string;
-    time: string;
-    seat: number;
-    category?: string | null;
   }
 }
 const CourseDetailSection:React.FC<CourseProps> = ({courseData}) => {
