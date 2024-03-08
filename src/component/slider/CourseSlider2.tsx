@@ -62,7 +62,6 @@ const CourseSlider2 = () => {
                         <SwiperSlide className="tl-2-blog tl-2-course" key={item.id}>
                         <div className="tl-2-course-img">
                             <img src={item.imgSrc} alt="Course Image"/>
-                            <span className="tl-2-course-price">{item.price}</span>
                         </div>
 
                         <div className="tl-2-course-txt">
