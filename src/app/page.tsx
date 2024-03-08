@@ -25,12 +25,11 @@ const Home2 = () => {
         />
         <BannerSection2 />
         <AboutSection2 />
-        {/* <ServiceSlider /> */}
         <CourseSlider2 />
         <CtaSection />
         <TeacherSection />
         <TestimonialSection />
-        <BlogSlider />
+
       </div>
       <FooterSection4
         style="tl-2-footer"

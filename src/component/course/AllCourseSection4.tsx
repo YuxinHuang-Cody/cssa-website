@@ -17,7 +17,7 @@ const AllCourseSection4 = () => {
 
                         <div className="tl-9-class-infos">
                             <a href="#" className="tl-9-class-category">Instrument</a>
-                            <span className="tl-9-class-duration"><img src="assets/images/tl-9/calender.png" alt="Icon"/>{item.duration} month</span>
+                            {/* <span className="tl-9-class-duration"><img src="assets/images/tl-9/calender.png" alt="Icon"/>{item.duration} month</span> */}
                         </div>
 
                         <h3 className="tl-9-program-title"><Link href={`/course/${item.slug}`}>{item.title}</Link></h3>
