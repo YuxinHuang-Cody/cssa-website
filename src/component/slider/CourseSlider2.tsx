@@ -9,7 +9,7 @@ const CourseSlider2 = () => {
     <section className="tl-2-courses tl-2-blogs pt-120 pb-120">
             <div className="container">
                 <div className="tl-2-section-heading">
-                    <h2 className="tl-2-section-title">课程</h2>
+                    <h2 className="tl-2-section-title">学联活动</h2>
                     <div className="tl-2-blogs-slider-nav" id="tl-2-courses-slider-nav">
                         <button type="button" role="presentation" className="owl-prev">
                             <i className="fa-light fa-arrow-left"></i>
