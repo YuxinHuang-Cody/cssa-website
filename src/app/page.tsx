@@ -5,6 +5,7 @@ import FooterSection4 from "@/component/footer/FooterSection4";
 import HeaderSection6 from "@/app/header/HeaderSection6";
 import BlogSlider from "@/component/slider/BlogSlider";
 import CourseSlider2 from "@/component/slider/CourseSlider2";
+import CourseSlider3 from "@/component/slider/CourseSlider3";
 import ServiceSlider from "@/component/slider/ServiceSlider";
 import TeacherSection from "@/component/teacher/TeacherSection";
 import TestimonialSection from "@/component/testimonial/TestimonialSection";
@@ -27,7 +28,7 @@ const Home2 = () => {
         <AboutSection2 />
         <CourseSlider2 />
         <CtaSection />
-        <TeacherSection />
+        <CourseSlider3 />
         <TestimonialSection />
 
       </div>

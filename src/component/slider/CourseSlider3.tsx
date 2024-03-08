@@ -4,12 +4,12 @@ import React from 'react'
 import { Autoplay, Navigation } from 'swiper/modules'
 import { Swiper, SwiperSlide } from 'swiper/react'
 
-const CourseSlider2 = () => {
+const CourseSlider3 = () => {
   return (
-    <section className="tl-2-courses tl-2-blogs pt-10 pb-120">
+    <section className="tl-2-courses tl-2-blogs pt-60 pb-120">
             <div className="container">
                 <div className="tl-2-section-heading">
-                    <h2 className="tl-2-section-title">学联活动</h2>
+                    <h2 className="tl-2-section-title">学联新闻</h2>
                     <div className="tl-2-blogs-slider-nav" id="tl-2-courses-slider-nav">
                         <button type="button" role="presentation" className="owl-prev">
                             <i className="fa-light fa-arrow-left"></i>
@@ -79,4 +79,4 @@ const CourseSlider2 = () => {
   )
 }
 
-export default CourseSlider2
+export default CourseSlider3
