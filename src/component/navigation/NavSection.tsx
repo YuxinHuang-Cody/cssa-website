@@ -13,7 +13,7 @@ const NavSection:React.FC<NavProps> = ({ulPosition,liStyle}) => {
             </a>
             <ul className="tl-submenu">
             <li>
-                <NavLink href="/home-2">首页</NavLink>
+                <NavLink href="/">首页</NavLink>
             </li>
             
             </ul>
