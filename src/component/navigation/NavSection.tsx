@@ -25,10 +25,13 @@ const NavSection:React.FC<NavProps> = ({ulPosition,liStyle}) => {
             </a>
             <ul className="tl-submenu">
             <li>
-                <NavLink href="/course">学联简介</NavLink>
+                <NavLink href="/">学联简介</NavLink>
             </li>
             <li>
-                <NavLink href="/course-2">部门介绍</NavLink>
+                <NavLink href="/">部门介绍</NavLink>
+            </li>
+            <li>
+                <NavLink href="/past-members">历届成员</NavLink>
             </li>
             </ul>
         </li>
@@ -62,7 +65,7 @@ const NavSection:React.FC<NavProps> = ({ulPosition,liStyle}) => {
 
             <ul className="tl-submenu">
             <li>
-                <NavLink href="/contact">联系我们</NavLink>
+                <NavLink href="/">联系我们</NavLink>
             </li>
             </ul>
         </li>
