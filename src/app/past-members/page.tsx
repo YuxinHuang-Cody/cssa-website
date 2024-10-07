@@ -81,7 +81,7 @@ const PastMembers = () => {
             <li style={{ marginBottom: '10px' }}>王佳怡——宣传部长</li>
             <li style={{ marginBottom: '10px' }}>陈思羽——文娱部长</li>
             <li style={{ marginBottom: '10px' }}>戴文涛——文娱副部长</li>
-            <li style={{ marginBottom: '10px' }}>黄宇欣——网络部长</li>
+            <li style={{ marginBottom: '10px' }}>邓世泽——网络部长</li>
             <li style={{ marginBottom: '10px' }}>任富琪——体育部长</li>
             <li style={{ marginBottom: '10px' }}>陈少杰——摄影部长</li>
           </ul>
