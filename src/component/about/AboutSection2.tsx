@@ -1,4 +1,6 @@
 import React from 'react'
+import Link from 'next/link';
+
 
 const AboutSection2 = () => {
   return (
@@ -7,7 +9,7 @@ const AboutSection2 = () => {
             <div className="row gy-5 align-items-center tl-2-about-row">
                 <div className="col-lg-6">
                     <div className="tl-2-about-img">
-                        <img src="assets/images/tl-2/春晚合影.jpeg" alt="Image"/>
+                        <img src="assets/images/tl-2/微信图片_20241216094823.jpg" alt="Image"/>
                         {/* <img src="assets/images/tl-2/arrow.png" alt="arrow" className="tl-2-about-arrow"/> */}
                     </div>
                 </div>
@@ -24,16 +26,16 @@ const AboutSection2 = () => {
                             </div>
 
                             <div className="tl-2-about-stat">
-                                <span className="tl-9-about-stat-num">100+</span>
+                                <span className="tl-9-about-stat-num">150+</span>
                                 <span className="tl-9-about-stat-name">成员</span>
                             </div>
 
                             <div className="tl-2-about-stat">
-                                <span className="tl-9-about-stat-num">6000+</span>
+                                <span className="tl-9-about-stat-num">10000+</span>
                                 <span className="tl-9-about-stat-name">服务人数</span>
                             </div>
                         </div>
-                        <a href="#" className="tl-2-blog-btn"><span className="tl-2-blog-btn-icon"><i className="fa-regular fa-arrow-up-right"></i></span>阅读更多</a>
+                        <Link href="/read" className="tl-2-blog-btn"><span className="tl-2-blog-btn-icon"><i className="fa-regular fa-arrow-up-right"></i></span>阅读更多</Link>
                     </div>
                 </div>
             </div>

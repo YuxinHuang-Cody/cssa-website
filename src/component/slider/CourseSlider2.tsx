@@ -58,7 +58,7 @@ const CourseSlider2 = () => {
                     }
                 }}
                 >
-                    {courseList.slice(0,6).map((item) => (
+                    {courseList.slice(0,40).map((item) => (
                         <SwiperSlide className="tl-2-blog tl-2-course" key={item.id}>
                         <div className="tl-2-course-img">
                             <img src={item.imgSrc} alt="Course Image"/>
