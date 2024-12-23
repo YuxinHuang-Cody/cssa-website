@@ -35,7 +35,7 @@ const AboutSection2 = () => {
                                 <span className="tl-9-about-stat-name">服务人数</span>
                             </div>
                         </div>
-                        <Link href="/read" className="tl-2-blog-btn"><span className="tl-2-blog-btn-icon"><i className="fa-regular fa-arrow-up-right"></i></span>阅读更多</Link>
+                        <Link href="/introduction" className="tl-2-blog-btn"><span className="tl-2-blog-btn-icon"><i className="fa-regular fa-arrow-up-right"></i></span>阅读更多</Link>
                     </div>
                 </div>
             </div>
