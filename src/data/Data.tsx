@@ -239,7 +239,7 @@ const courseList = [
   {
     id: 14,
     youtubeUrl: "https://www.youtube.com/embed/YkWyIRdiZeQ?si=nhCdoG7otrv_hN0m",
-    imgSrc: "assets/images/kb-16/图片1.png",
+    imgSrc: "assets/images/kb-16/74e795b181c5cd4f0404ed293a74c00.jpg",
     title: "2024NEC工业展",
     slug: "teaching-math-and-science-inquiry-based-approaches",
     desc: "Advanced Engineering工业展会自成立以来，一直是英国工程技术领域的旗舰展会。作为行业技术与创新的风向标，它涵盖了航空航天、汽车、复合材料等多个领域。每年的展会都吸引了全球成千上万的专家、企业、研究机构齐聚一堂，展示尖端技术与行业成果。通过这一平台，行业领袖与创新者们得以合作，共同推动技术进步。自展会成立之初，便成为英国技术创新和商业网络的核心枢纽之一。",
@@ -407,7 +407,7 @@ const courseList1 = [
   {
     id: 8,
     youtubeUrl: "https://www.youtube.com/embed/YkWyIRdiZeQ?si=nhCdoG7otrv_hN0m",
-    imgSrc: "assets/images/kb-16/图片1.png",
+    imgSrc: "assets/images/kb-16/74e795b181c5cd4f0404ed293a74c00.jpg",
     title: "2024NEC工业展",
     slug: "teaching-math-and-science-inquiry-based-approaches",
     desc: "Advanced Engineering工业展会自成立以来，一直是英国工程技术领域的旗舰展会。作为行业技术与创新的风向标，它涵盖了航空航天、汽车、复合材料等多个领域。每年的展会都吸引了全球成千上万的专家、企业、研究机构齐聚一堂，展示尖端技术与行业成果。通过这一平台，行业领袖与创新者们得以合作，共同推动技术进步。自展会成立之初，便成为英国技术创新和商业网络的核心枢纽之一。",
